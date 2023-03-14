@@ -1,0 +1,15 @@
+D:\Praaktikum Semster 2\Praktikum1\Tugas1\bin\Debug\net6.0\Tugas1.exe
+D:\Praaktikum Semster 2\Praktikum1\Tugas1\bin\Debug\net6.0\Tugas1.deps.json
+D:\Praaktikum Semster 2\Praktikum1\Tugas1\bin\Debug\net6.0\Tugas1.runtimeconfig.json
+D:\Praaktikum Semster 2\Praktikum1\Tugas1\bin\Debug\net6.0\Tugas1.dll
+D:\Praaktikum Semster 2\Praktikum1\Tugas1\bin\Debug\net6.0\Tugas1.pdb
+D:\Praaktikum Semster 2\Praktikum1\Tugas1\obj\Debug\net6.0\Tugas1.csproj.AssemblyReference.cache
+D:\Praaktikum Semster 2\Praktikum1\Tugas1\obj\Debug\net6.0\Tugas1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praaktikum Semster 2\Praktikum1\Tugas1\obj\Debug\net6.0\Tugas1.AssemblyInfoInputs.cache
+D:\Praaktikum Semster 2\Praktikum1\Tugas1\obj\Debug\net6.0\Tugas1.AssemblyInfo.cs
+D:\Praaktikum Semster 2\Praktikum1\Tugas1\obj\Debug\net6.0\Tugas1.csproj.CoreCompileInputs.cache
+D:\Praaktikum Semster 2\Praktikum1\Tugas1\obj\Debug\net6.0\Tugas1.dll
+D:\Praaktikum Semster 2\Praktikum1\Tugas1\obj\Debug\net6.0\refint\Tugas1.dll
+D:\Praaktikum Semster 2\Praktikum1\Tugas1\obj\Debug\net6.0\Tugas1.pdb
+D:\Praaktikum Semster 2\Praktikum1\Tugas1\obj\Debug\net6.0\Tugas1.genruntimeconfig.cache
+D:\Praaktikum Semster 2\Praktikum1\Tugas1\obj\Debug\net6.0\ref\Tugas1.dll
