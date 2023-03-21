@@ -1,0 +1,15 @@
+D:\Praaktikum Semster 2\Praktikum03\OOP\bin\Debug\net6.0\OOP.exe
+D:\Praaktikum Semster 2\Praktikum03\OOP\bin\Debug\net6.0\OOP.deps.json
+D:\Praaktikum Semster 2\Praktikum03\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+D:\Praaktikum Semster 2\Praktikum03\OOP\bin\Debug\net6.0\OOP.dll
+D:\Praaktikum Semster 2\Praktikum03\OOP\bin\Debug\net6.0\OOP.pdb
+D:\Praaktikum Semster 2\Praktikum03\OOP\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+D:\Praaktikum Semster 2\Praktikum03\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praaktikum Semster 2\Praktikum03\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+D:\Praaktikum Semster 2\Praktikum03\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+D:\Praaktikum Semster 2\Praktikum03\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+D:\Praaktikum Semster 2\Praktikum03\OOP\obj\Debug\net6.0\OOP.dll
+D:\Praaktikum Semster 2\Praktikum03\OOP\obj\Debug\net6.0\refint\OOP.dll
+D:\Praaktikum Semster 2\Praktikum03\OOP\obj\Debug\net6.0\OOP.pdb
+D:\Praaktikum Semster 2\Praktikum03\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+D:\Praaktikum Semster 2\Praktikum03\OOP\obj\Debug\net6.0\ref\OOP.dll

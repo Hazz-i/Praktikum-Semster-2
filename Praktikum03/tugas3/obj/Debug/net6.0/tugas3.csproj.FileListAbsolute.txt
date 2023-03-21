@@ -1,0 +1,15 @@
+D:\Praaktikum Semster 2\Praktikum03\tugas3\bin\Debug\net6.0\tugas3.exe
+D:\Praaktikum Semster 2\Praktikum03\tugas3\bin\Debug\net6.0\tugas3.deps.json
+D:\Praaktikum Semster 2\Praktikum03\tugas3\bin\Debug\net6.0\tugas3.runtimeconfig.json
+D:\Praaktikum Semster 2\Praktikum03\tugas3\bin\Debug\net6.0\tugas3.dll
+D:\Praaktikum Semster 2\Praktikum03\tugas3\bin\Debug\net6.0\tugas3.pdb
+D:\Praaktikum Semster 2\Praktikum03\tugas3\obj\Debug\net6.0\tugas3.csproj.AssemblyReference.cache
+D:\Praaktikum Semster 2\Praktikum03\tugas3\obj\Debug\net6.0\tugas3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praaktikum Semster 2\Praktikum03\tugas3\obj\Debug\net6.0\tugas3.AssemblyInfoInputs.cache
+D:\Praaktikum Semster 2\Praktikum03\tugas3\obj\Debug\net6.0\tugas3.AssemblyInfo.cs
+D:\Praaktikum Semster 2\Praktikum03\tugas3\obj\Debug\net6.0\tugas3.csproj.CoreCompileInputs.cache
+D:\Praaktikum Semster 2\Praktikum03\tugas3\obj\Debug\net6.0\tugas3.dll
+D:\Praaktikum Semster 2\Praktikum03\tugas3\obj\Debug\net6.0\refint\tugas3.dll
+D:\Praaktikum Semster 2\Praktikum03\tugas3\obj\Debug\net6.0\tugas3.pdb
+D:\Praaktikum Semster 2\Praktikum03\tugas3\obj\Debug\net6.0\tugas3.genruntimeconfig.cache
+D:\Praaktikum Semster 2\Praktikum03\tugas3\obj\Debug\net6.0\ref\tugas3.dll
