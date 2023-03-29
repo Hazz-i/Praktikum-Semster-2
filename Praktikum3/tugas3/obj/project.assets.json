@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Praaktikum Semster 2\\Praktikum03\\tugas3\\tugas3.csproj",
+      "projectUniqueName": "D:\\Praaktikum Semster 2\\Praktikum3\\tugas3\\tugas3.csproj",
       "projectName": "tugas3",
-      "projectPath": "D:\\Praaktikum Semster 2\\Praktikum03\\tugas3\\tugas3.csproj",
+      "projectPath": "D:\\Praaktikum Semster 2\\Praktikum3\\tugas3\\tugas3.csproj",
       "packagesPath": "C:\\Users\\wahid\\.nuget\\packages\\",
-      "outputPath": "D:\\Praaktikum Semster 2\\Praktikum03\\tugas3\\obj\\",
+      "outputPath": "D:\\Praaktikum Semster 2\\Praktikum3\\tugas3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wahid\\AppData\\Roaming\\NuGet\\NuGet.Config",

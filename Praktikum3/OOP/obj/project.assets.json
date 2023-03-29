@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Praaktikum Semster 2\\Praktikum03\\OOP\\OOP.csproj",
+      "projectUniqueName": "D:\\Praaktikum Semster 2\\Praktikum3\\OOP\\OOP.csproj",
       "projectName": "OOP",
-      "projectPath": "D:\\Praaktikum Semster 2\\Praktikum03\\OOP\\OOP.csproj",
+      "projectPath": "D:\\Praaktikum Semster 2\\Praktikum3\\OOP\\OOP.csproj",
       "packagesPath": "C:\\Users\\wahid\\.nuget\\packages\\",
-      "outputPath": "D:\\Praaktikum Semster 2\\Praktikum03\\OOP\\obj\\",
+      "outputPath": "D:\\Praaktikum Semster 2\\Praktikum3\\OOP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wahid\\AppData\\Roaming\\NuGet\\NuGet.Config",
